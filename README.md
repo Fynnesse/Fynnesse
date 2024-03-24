@@ -17,7 +17,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
 | Malware Analysis with REMnux                  | <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">Malware Analysis Lab</a>|
 
 ## Tools
@@ -57,4 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
+- <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">Malware Analysis Lab</a>
 - Detection Lab
