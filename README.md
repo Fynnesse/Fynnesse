@@ -13,10 +13,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Analysis Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Fynnesse/Network-Analysis-Lab">Network Analysis Lab</a>|
 | Malware Analysis with REMnux                  | <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">Malware Analysis Lab</a>|
 
 ## Tools
