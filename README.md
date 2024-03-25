@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jeremiahasagba"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Asagba Jeremiah is a Driven IT Support Technician with over 2 years of experience, delivering exceptional customer service, problem-solving, and troubleshooting. He is on a thrilling quest to become a formidable security analyst, driven by a passion for industry and relentless pursuit of knowledge. Demonstrates strong analytical skills, attention to detail, and efficient resolution of complex technical issues. Committed to staying updated with the latest trends and technologies. 
+Asagba Jeremiah is a Driven IT Support Technician with over 3 years of experience, delivering exceptional customer service, problem-solving, and troubleshooting. He is on a thrilling quest to become a formidable security analyst, driven by a passion for industry and relentless pursuit of knowledge. Demonstrates strong analytical skills, attention to detail, and efficient resolution of complex technical issues. Committed to staying updated with the latest trends and technologies. 
 
 ## Objective
 
