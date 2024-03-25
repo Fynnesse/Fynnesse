@@ -56,4 +56,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
 - <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">Malware Analysis Lab</a>
-- Detection Lab
+- <a href="https://github.com/Fynnesse/Network-Analysis-Lab">Network Analysis Lab</a>
