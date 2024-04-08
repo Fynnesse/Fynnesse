@@ -15,6 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis(Wazuh), Security Automation with Shuffle(SOAR), Case Management with TheHive,  Incident Response Planning and Execution         | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Fynnesse/Network-Analysis-Lab">Network Analysis Lab</a>|
 | Malware Analysis with REMnux                  | <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">Malware Analysis Lab</a>|
+| Active Directory Deployment and Management, Brute Force Attack Simulation with Hydra, SIEM Integration and Event Analysis with Splunk, Threat Simulation with Atomic Red Team, Network Configuration and Security | <a href="https://github.com/Fynnesse/Active-Directory-Project">Active Directory Project</a>|
+
 
 ## Tools
 
@@ -41,6 +43,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
+### Identity And Access Management
+<div>
+    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Active-Directory&logoColor=white" />
+
+</div>
+
 ## Certifications
 
 <div>
@@ -57,3 +65,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
 - <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">Malware Analysis Lab</a>
 - <a href="https://github.com/Fynnesse/Network-Analysis-Lab">Network Analysis Lab</a>
+- <a href="https://github.com/Fynnesse/Active-Directory-Project">Active Directory Lab</a>
