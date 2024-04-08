@@ -34,26 +34,32 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">
     <img src="https://img.shields.io/badge/-REMnux-007ACC?&style=for-the-badge" />
+    </a>
 
 </div>
 
 ### SecOps
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">
     <img src="https://img.shields.io/badge/-TheHive-F6C915?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    </a>
     <a href="https://github.com/Fynnesse/Active-Directory-Project">
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</a>
+    </a>
     <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
- </a>
+     </a>
 
 </div>
 
 ### Identity And Access Management
 <div>
+    <a href="https://github.com/Fynnesse/Active-Directory-Project">
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Active-Directory&logoColor=white" />
+    </a>
 
 </div>
 
