@@ -57,6 +57,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Identity And Access Management
 <div>
+    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Office_365-0078D4?&style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
     <img src="https://img.shields.io/badge/-Okta-00A6D6?&style=for-the-badge&logo=Okta&logoColor=white" />
     <img src="https://img.shields.io/badge/-Duo-2589BD?&style=for-the-badge&logo=Duo&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_AnyConnect-1A5A96?&style=for-the-badge&logo=Cisco&logoColor=white" />
