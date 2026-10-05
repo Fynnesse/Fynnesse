@@ -1,88 +1,54 @@
-# Hello, I'm Jeremiah
-<a href="https://www.linkedin.com/in/jeremiahasagba"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Jeremiah Asagba
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiahasagba)
+[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/6e5b060b-26d7-401c-9477-71f0cac0c2e5/public_url)
+[![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/dbcc35d7-77ca-4db7-942c-28da1f8a026a/public_url)
 
-Asagba Jeremiah is a Driven IT Support Technician with over 3 years of experience, delivering exceptional customer service, problem-solving, and troubleshooting. He is on a thrilling quest to become a formidable security analyst, driven by a passion for industry and relentless pursuit of knowledge. Demonstrates strong analytical skills, attention to detail, and efficient resolution of complex technical issues. Committed to staying updated with the latest trends and technologies. 
+I'm a security analyst based in Manchester, UK, working toward a Tier 1 SOC role.
 
-## Objective
+Most of what's here is documentation rather than code. I investigate things in live cloud environments and write up how I did it, including the parts that went wrong. I hold an MSc in Cybersecurity Management, Security+ and Network+, and two years of IT support experience before this.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Currently working through a 12-week cloud security track, publishing one documented investigation a week.
 
-## Skills
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis(Wazuh), Security Automation with Shuffle(SOAR), Case Management with TheHive,  Incident Response Planning and Execution         | <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Fynnesse/Network-Analysis-Lab">Network Analysis Lab</a>|
-| Malware Analysis with REMnux                  | <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">Malware Analysis Lab</a>|
-| Active Directory Deployment and Management, Brute Force Attack Simulation with Hydra, SIEM Integration and Event Analysis with Splunk, Threat Simulation with Atomic Red Team, Network Configuration and Security | <a href="https://github.com/Fynnesse/Active-Directory-Project">Active Directory Project</a>|
+## Cloud Security Investigations
 
+Documented investigations in a live multi-user Azure tenant. Each one covers method, evidence and severity-ranked remediation.
+**[→ security-portfolio](https://github.com/Fynnesse/security-portfolio)**
 
-## Tools
+| # | Investigation | Focus |
+|---|---|---|
+| 1 | [Tracing a Non-Compliant Azure Deployment to an Audit-Only Policy](https://github.com/Fynnesse/security-portfolio/blob/main/01-operation-dead-deploy.md) | Governance forensics, Azure Policy, deployment audit trail |
+| 2 | [Reconstructing an OAuth Consent-Phishing Kill Chain](https://github.com/Fynnesse/security-portfolio/blob/main/02-The-Stolen-Identity.md) | Entra ID, app registrations, OAuth consent abuse |
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <a href="https://github.com/Fynnesse/Network-Analysis-Lab">
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</a>
+## Lab Builds
 
-</div>
+| Project | What I built | Tools |
+|---|---|---|
+| [SOC Automation Lab](https://github.com/Fynnesse/SOC-Automation-Lab) | Detection rules for credential-dumping activity and an end-to-end SOAR pipeline from alert to case creation | Wazuh, Shuffle, TheHive, VirusTotal |
+| [Active Directory Lab](https://github.com/Fynnesse/Active-Directory-Project) | A virtualised AD environment with centralised logging, attacked and then detected | Windows Server, Splunk, Sysmon, Atomic Red Team, Hydra |
+| [Malware Analysis Lab](https://github.com/Fynnesse/Malware-Analysis-w-REMnux) | Static analysis of a malicious document through to C2 identification and a findings report | REMnux, rtfdump, scdbg, VirusTotal |
+| [Network Analysis Lab](https://github.com/Fynnesse/Network-Analysis-Lab) | Traffic monitoring and attack detection | Wireshark |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">
-    <img src="https://img.shields.io/badge/-REMnux-007ACC?&style=for-the-badge" />
-    </a>
+## Tools I've actually used
 
-</div>
+Nothing listed here that isn't behind a project above.
 
-### SecOps
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">
-    <img src="https://img.shields.io/badge/-TheHive-F6C915?&style=for-the-badge&logo=TheHive&logoColor=white" />
-    </a>
-    <a href="https://github.com/Fynnesse/Active-Directory-Project">
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    </a>
-    <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">
-    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-     </a>
+| Area | Tools |
+|---|---|
+| **Cloud & identity** | Azure · Entra ID · Conditional Access · Azure Policy · Microsoft Graph · RBAC · Active Directory · AWS (IAM, EC2, S3, VPC, CloudTrail) |
+| **Detection & response** | Splunk · Wazuh · Microsoft Defender for Endpoint · TheHive · Shuffle · Sysmon · VirusTotal |
+| **Analysis & forensics** | REMnux · Wireshark · Nmap · KQL · PowerShell |
+| **Frameworks** | MITRE ATT&CK · NIST CSF |
 
-</div>
+## Certifications & education
 
-### Identity And Access Management
-<div>
-    <img src="https://img.shields.io/badge/-MaaS360-0052CC?&style=for-the-badge&logo=maas360&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Office_365-0078D4?&style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Okta-00A6D6?&style=for-the-badge&logo=Okta&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Duo-2589BD?&style=for-the-badge&logo=Duo&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_AnyConnect-1A5A96?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <a href="https://github.com/Fynnesse/Active-Directory-Project">
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Active-Directory&logoColor=white" />
-    </a>
-    
-</div>
-
-## Certifications
-
-<div>
-<a href="https://www.credly.com/badges/6e5b060b-26d7-401c-9477-71f0cac0c2e5/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href=https://www.credly.com/badges/dbcc35d7-77ca-4db7-942c-28da1f8a026a/public_url>
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+ Badge"/>
-</a>
-
-
-</div>
-
-## Projects
-- <a href="https://github.com/Fynnesse/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
-- <a href="https://github.com/Fynnesse/Malware-Analysis-w-REMnux/tree/main">Malware Analysis Lab</a>
-- <a href="https://github.com/Fynnesse/Network-Analysis-Lab">Network Analysis Lab</a>
-- <a href="https://github.com/Fynnesse/Active-Directory-Project">Active Directory Lab</a>
+| | | |
+|---|---|---|
+| **CompTIA Security+** | Renewed 2026 | [Verify](https://www.credly.com/badges/6e5b060b-26d7-401c-9477-71f0cac0c2e5/public_url) |
+| **CompTIA Network+** | Renewed 2026 | [Verify](https://www.credly.com/badges/dbcc35d7-77ca-4db7-942c-28da1f8a026a/public_url) |
+| **CompTIA CySA+** | Expected December 2026 | |
+| **TryHackMe SAL1** | Expected December 2026 | |
+| **MSc Cybersecurity Management** | University of Law, Manchester · 2025 | |
+| **BSc Computer Science** | Babcock University, Nigeria · 2021 | |
