@@ -21,7 +21,7 @@ Documented investigations in a live multi-user Azure tenant. Each one covers met
 |---|---|---|
 | 1 | [Tracing a Non-Compliant Azure Deployment to an Audit-Only Policy](https://github.com/Fynnesse/security-portfolio/blob/main/01-operation-dead-deploy.md) | Governance forensics, Azure Policy, deployment audit trail |
 | 2 | [Reconstructing an OAuth Consent-Phishing Kill Chain](https://github.com/Fynnesse/security-portfolio/blob/main/02-The-Stolen-Identity.md) | Entra ID, app registrations, OAuth consent abuse |
-
+| 3 | [Auditing Azure RBAC Four Ways: What Each Method Cannot See](https://github.com/Fynnesse/security-portfolio/blob/main/03-Privilege-Audit.md) |
 ## Lab Builds
 
 | Project | What I built | Tools |
