@@ -30,8 +30,8 @@ Documented investigations in a live multi-user Azure tenant. Each one covers met
 | Project | What I built | Tools |
 |---|---|---|
 | [SOC Automation Lab](https://github.com/Fynnesse/SOC-Automation-Lab) | Detection rules for credential-dumping activity and an end-to-end SOAR pipeline from alert to case creation | Wazuh, Shuffle, TheHive, VirusTotal |
-| [Active Directory Lab](https://github.com/Fynnesse/Active-Directory-Project) | A virtualised AD environment with centralised logging, attacked and then detected | Windows Server, Splunk, Sysmon, Atomic Red Team, Hydra |
-| [Malware Analysis Lab](https://github.com/Fynnesse/Malware-Analysis-w-REMnux) | Static analysis of a malicious document through to C2 identification and a findings report | REMnux, rtfdump, scdbg, VirusTotal |
+| [Active Directory Lab](https://github.com/Fynnesse/Active-Directory-Lab) | A virtualised AD environment with centralised logging, attacked and then detected | Windows Server, Splunk, Sysmon, Atomic Red Team, Hydra |
+| [Malware Analysis Lab](https://github.com/Fynnesse/Malware-Analysis-w-REMnux-Lab) | Static analysis of a malicious document through to C2 identification and a findings report | REMnux, rtfdump, scdbg, VirusTotal |
 | [Network Analysis Lab](https://github.com/Fynnesse/Network-Analysis-Lab) | Traffic monitoring and attack detection | Wireshark |
 
 ## Tools I've actually used
