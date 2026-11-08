@@ -8,7 +8,7 @@ I'm a security analyst based in Manchester, UK, working toward a Tier 1 SOC role
 
 Most of what's here is documentation rather than code. I investigate things in live cloud environments and write up how I did it, including the parts that went wrong. I hold an MSc in Cybersecurity Management, Security+ and Network+, and two years of IT support experience before this.
 
-Currently working through a 12-week cloud security track, publishing one documented investigation a week.
+Currently working through a 10-week cloud security track. Five investigations published so far, with storage exposure hunting up next.
 
 ---
 
@@ -21,8 +21,10 @@ Documented investigations in a live multi-user Azure tenant. Each one covers met
 |---|---|---|
 | 1 | [Tracing a Non-Compliant Azure Deployment to an Audit-Only Policy](https://github.com/Fynnesse/security-portfolio/blob/main/01-operation-dead-deploy.md) | Governance forensics, Azure Policy, deployment audit trail |
 | 2 | [Reconstructing an OAuth Consent-Phishing Kill Chain](https://github.com/Fynnesse/security-portfolio/blob/main/02-The-Stolen-Identity.md) | Entra ID, app registrations, OAuth consent abuse |
-| 3 | [Auditing Azure RBAC Four Ways: What Each Method Cannot See](https://github.com/Fynnesse/security-portfolio/blob/main/03-Privilege-Audit.md) |
-| 4 | [Reviewing a Friday Deploy Against a Production Baseline](https://github.com/Fynnesse/security-portfolio/blob/main/04-Spin-Up-and-Lock-Down.md) |
+| 3 | [Auditing Azure RBAC Four Ways: What Each Method Cannot See](https://github.com/Fynnesse/security-portfolio/blob/main/03-Privilege-Audit.md) | Azure RBAC, PIM, Resource Graph with KQL, least privilege |
+| 4 | [Reviewing a Friday Deploy Against a Production Baseline](https://github.com/Fynnesse/security-portfolio/blob/main/04-Spin-Up-and-Lock-Down.md) | Pre-production review, public storage exposure, NSG rules, managed identity |
+| 5 | [Tracing Private Storage Traffic Past a Forced Tunnel](https://github.com/Fynnesse/security-portfolio/blob/main/05-Network-the-Operative.md) | Private endpoints, private DNS, NSG and route table precedence |
+
 ## Lab Builds
 
 | Project | What I built | Tools |
