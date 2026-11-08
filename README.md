@@ -45,8 +45,6 @@ Nothing listed here that isn't behind a project above.
 | **Analysis & forensics** | REMnux · Wireshark · KQL · PowerShell |
 | **Frameworks** | MITRE ATT&CK |
 
-**Studied during my MSc, not yet used in a project:** AWS (IAM, EC2, S3, VPC, CloudTrail) · Microsoft Defender for Endpoint · Nmap · NIST CSF
-
 ## Certifications & education
 
 | | | |
