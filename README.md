@@ -1,4 +1,4 @@
-# Jeremiah Asagba
+<img src="assets/banner.png" alt="Jeremiah Asagba: Security Analyst, Cloud Investigations, Detection and Response" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiahasagba)
 [![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/a2a432e5-1960-4a1f-8a1d-f4bb2b2ca0f3/public_url)
