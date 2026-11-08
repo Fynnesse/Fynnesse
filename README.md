@@ -40,10 +40,12 @@ Nothing listed here that isn't behind a project above.
 
 | Area | Tools |
 |---|---|
-| **Cloud & identity** | Azure · Entra ID · Conditional Access · Azure Policy · Microsoft Graph · RBAC · Active Directory · AWS (IAM, EC2, S3, VPC, CloudTrail) |
-| **Detection & response** | Splunk · Wazuh · Microsoft Defender for Endpoint · TheHive · Shuffle · Sysmon · VirusTotal |
-| **Analysis & forensics** | REMnux · Wireshark · Nmap · KQL · PowerShell |
-| **Frameworks** | MITRE ATT&CK · NIST CSF |
+| **Cloud & identity** | Azure · Entra ID · Conditional Access · Azure Policy · Microsoft Graph · RBAC · Active Directory |
+| **Detection & response** | Splunk · Wazuh · TheHive · Shuffle · Sysmon · VirusTotal |
+| **Analysis & forensics** | REMnux · Wireshark · KQL · PowerShell |
+| **Frameworks** | MITRE ATT&CK |
+
+**Studied during my MSc, not yet used in a project:** AWS (IAM, EC2, S3, VPC, CloudTrail) · Microsoft Defender for Endpoint · Nmap · NIST CSF
 
 ## Certifications & education
 
