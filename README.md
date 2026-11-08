@@ -1,8 +1,8 @@
 # Jeremiah Asagba
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiahasagba)
-[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/6e5b060b-26d7-401c-9477-71f0cac0c2e5/public_url)
-[![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/dbcc35d7-77ca-4db7-942c-28da1f8a026a/public_url)
+[![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/a2a432e5-1960-4a1f-8a1d-f4bb2b2ca0f3/public_url)
+[![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/c79e1864-4509-4c1d-94c4-495220623525/public_url)
 
 I'm a security analyst based in Manchester, UK, working toward a Tier 1 SOC role.
 
@@ -31,7 +31,7 @@ Documented investigations in a live multi-user Azure tenant. Each one covers met
 |---|---|---|
 | [SOC Automation Lab](https://github.com/Fynnesse/SOC-Automation-Lab) | Detection rules for credential-dumping activity and an end-to-end SOAR pipeline from alert to case creation | Wazuh, Shuffle, TheHive, VirusTotal |
 | [Active Directory Lab](https://github.com/Fynnesse/Active-Directory-Lab) | A virtualised AD environment with centralised logging, attacked and then detected | Windows Server, Splunk, Sysmon, Atomic Red Team, Hydra |
-| [Malware Analysis Lab](https://github.com/Fynnesse/Malware-Analysis-w-REMnux-Lab) | Static analysis of a malicious document through to C2 identification and a findings report | REMnux, rtfdump, scdbg, VirusTotal |
+| [Malware Analysis Lab](https://github.com/Fynnesse/Malware-Analysis-w-REMnux-Lab) | Static analysis of a malicious document, from the hidden exploit object to the payload's download chain | REMnux, rtfdump, oletools, scdbg, VirusTotal |
 | [Network Analysis Lab](https://github.com/Fynnesse/Network-Analysis-Lab) | Reconstructed a web server compromise from a packet capture, from port scan to reverse shell | Wireshark |
 
 ## Tools I've actually used
@@ -49,8 +49,8 @@ Nothing listed here that isn't behind a project above.
 
 | | | |
 |---|---|---|
-| **CompTIA Security+** | Renewed 2026 | [Verify](https://www.credly.com/badges/6e5b060b-26d7-401c-9477-71f0cac0c2e5/public_url) |
-| **CompTIA Network+** | Renewed 2026 | [Verify](https://www.credly.com/badges/dbcc35d7-77ca-4db7-942c-28da1f8a026a/public_url) |
+| **CompTIA Security+** | Renewed 2026 | [Verify](https://www.credly.com/badges/a2a432e5-1960-4a1f-8a1d-f4bb2b2ca0f3/public_url) |
+| **CompTIA Network+** | Renewed 2026 | [Verify](https://www.credly.com/badges/c79e1864-4509-4c1d-94c4-495220623525/public_url) |
 | **CompTIA CySA+** | Expected December 2026 | |
 | **TryHackMe SAL1** | Expected December 2026 | |
 | **MSc Cybersecurity Management** | University of Law, Manchester · 2025 | |
