@@ -53,7 +53,7 @@ Nothing listed here that isn't behind a project above.
 |---|---|---|
 | **CompTIA Security+** | Renewed 2026 | [Verify](https://www.credly.com/badges/a2a432e5-1960-4a1f-8a1d-f4bb2b2ca0f3/public_url) |
 | **CompTIA Network+** | Renewed 2026 | [Verify](https://www.credly.com/badges/c79e1864-4509-4c1d-94c4-495220623525/public_url) |
-| **CompTIA CySA+** | Expected December 2026 | |
-| **TryHackMe SAL1** | Expected December 2026 | |
+| **CompTIA CySA+** | Expected February 2027 | |
+| **TryHackMe SAL1** | Expected March 2027 | |
 | **MSc Cybersecurity Management** | University of Law, Manchester · 2025 | |
 | **BSc Computer Science** | Babcock University, Nigeria · 2021 | |
