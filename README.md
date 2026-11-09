@@ -8,7 +8,7 @@ I'm a security analyst based in Manchester, UK, working toward a Tier 1 SOC role
 
 Most of what's here is documentation rather than code. I investigate things in live cloud environments and write up how I did it, including the parts that went wrong. I hold an MSc in Cybersecurity Management, Security+ and Network+, and two years of IT support experience before this.
 
-Currently working through a 10-week cloud security track. Five investigations published so far, with storage exposure hunting up next.
+Currently working through a 10-week cloud security track. Six investigations published so far, with log analysis up next.
 
 ---
 
@@ -24,6 +24,7 @@ Documented investigations in a live multi-user Azure tenant. Each one covers met
 | 3 | [Auditing Azure RBAC Four Ways: What Each Method Cannot See](https://github.com/Fynnesse/security-portfolio/blob/main/03-Privilege-Audit.md) | Azure RBAC, PIM, Resource Graph with KQL, least privilege |
 | 4 | [Reviewing a Friday Deploy Against a Production Baseline](https://github.com/Fynnesse/security-portfolio/blob/main/04-Spin-Up-and-Lock-Down.md) | Pre-production review, public storage exposure, NSG rules, managed identity |
 | 5 | [Tracing Private Storage Traffic Past a Forced Tunnel](https://github.com/Fynnesse/security-portfolio/blob/main/05-Network-the-Operative.md) | Private endpoints, private DNS, NSG and route table precedence |
+| 6 | [Following a Secret to Its Data, and the Copy Nobody Locked](https://github.com/Fynnesse/security-portfolio/blob/main/06-Bucket-Looting.md) | Storage exposure, Key Vault secret retrieval, anonymous blob access |
 
 ## Lab Builds
 
