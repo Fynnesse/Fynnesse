@@ -41,7 +41,8 @@ Nothing listed here that isn't behind a project above.
 
 | Area | Tools |
 |---|---|
-| **Cloud & identity** | Azure · Entra ID · Conditional Access · Azure Policy · Microsoft Graph · RBAC · Active Directory · Key Vault · Private Link · Resource Graph |
+| **Cloud & identity** | Azure · Entra ID · Conditional Access · Azure Policy · Microsoft Graph · RBAC · Active Directory · Key Vault · Resource Graph |
+| **Networking** | VNet · NSG · Route tables · Private Link · Private DNS |
 | **Detection & response** | Splunk · Wazuh · TheHive · Shuffle · Sysmon · VirusTotal |
 | **Analysis & forensics** | REMnux · Wireshark · KQL · PowerShell |
 | **Frameworks** | MITRE ATT&CK |
